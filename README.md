@@ -56,6 +56,9 @@
 
 * **Why are these technologies appropriate for your solution?** These are appropriate technologies because they are pertinent to the service being provided and all are existing technologies made by NVIDIA. The challenge would be the engineering problem of logistically fitting them together, not creating new technologies.
 
+> "The future of computing is accelerated computing, and AI is the most powerful technology force of our time." 
+> — Jensen Huang, [NVIDIA Investor Relations](https://investor.nvidia.com/home/default.aspx)
+
 ## Sources
 
 * [Britannica](https://www.britannica.com/topic/Nvidia-Corporation)
